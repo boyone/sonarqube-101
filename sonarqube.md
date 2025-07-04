@@ -35,7 +35,7 @@ SonarQube เป็นแพลตฟอร์มโอเพนซอร์ส�
    - Null checks that dereference the items they’re checking
    - Math operations that use the wrong precision or lose precision
 
-2. Coding rules(ch 13)
+2. Coding rules
 
    It’s clear that some issues are worse than others. That’s why SonarQube ranks them at different severities: Blocker, Critical, Major, Minor, and Info. The rules-compliance percentage you see at lower left in the issues widget gives perspective. It’s based on the number and severity of issues versus the lines of code in the project. Whereas the issues counts are golf-style metrics, the rules-compliance index is like bowling: higher is better.
 
