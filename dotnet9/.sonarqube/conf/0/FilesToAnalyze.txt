@@ -1,0 +1,11 @@
+﻿/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/Program.cs
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/obj/Debug/net9.0/dotnet9.GlobalUsings.g.cs
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/obj/Debug/net9.0/dotnet9.AssemblyInfo.cs
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/obj/Debug/net9.0/dotnet9.MvcApplicationPartsAssemblyInfo.cs
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/appsettings.Development.json
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/appsettings.json
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/CLAUDE.md
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/dotnet9.http
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/sonar-project.properties
+/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/Properties/launchSettings.json

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/dotnet9.csproj</ProjectPath>
+  <FilesToAnalyzePath>/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/.sonarqube/out/0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net9.0</TargetFramework>
+</SonarProjectConfig>

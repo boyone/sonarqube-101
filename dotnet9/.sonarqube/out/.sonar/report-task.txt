@@ -1,0 +1,6 @@
+projectKey=dotnet9
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=dotnet9
+ceTaskId=62a5885c-05b3-4973-a850-df324e3be0ff
+ceTaskUrl=http://localhost:9000/api/ce/task?id=62a5885c-05b3-4973-a850-df324e3be0ff

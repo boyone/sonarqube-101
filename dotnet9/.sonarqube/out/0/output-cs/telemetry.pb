@@ -1,0 +1,1 @@
+WRA/Users/boyone/workspaces/sck_lab/sonarqube/dotnet9/dotnet9.csproj¢net9.0òCSharp13
