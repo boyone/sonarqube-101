@@ -26,7 +26,7 @@ docker compose up -d
 
 ## 5. Copy coverage.out and sonar-project.properties
 
-1. `store-service-conf/coverage.out` and `store-service-conf/sonar-project.properties` and paste at `sck-online-store/store-service`
+1. copy `store-service-conf/coverage.out` and `store-service-conf/sonar-project.properties` and paste at `sck-online-store/store-service`
 
 ## 6. Run sonar-scanner at sck-online-store/store-service
 
