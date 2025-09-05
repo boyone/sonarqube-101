@@ -39,6 +39,16 @@
     dependency-check.bat --scan <PATH> --nvdApiKey <nvdApiKey> -f ALL --enableExperimental --nvdDatafeed https://nvd.nist.gov/feeds/json/cve/2.0/nvdcve-2.0-\{0\}.json.gz
     ```
 
+    - [https://github.com/dependency-check/DependencyCheck/issues/7901](https://github.com/dependency-check/DependencyCheck/issues/7901)
+
+- options
+  - **-scan**: path ที่ต้องการ scan
+  - **-nvdApiKey**: Key ที่ใช้ในการ access ไปที่ NVD API
+  - **-f**: output ที่ต้องการให้ file เขียนออกมาประกอบด้ย HTML, XML, CSV, JSON, JUNIT, SARIF, JENKINS, GITLAB, ALL
+  - **--enableExperimental**: เปิดให้ scan ในส่วนที่ยังเป็น experimental เช่น PHP Composer Lock files (composer.lock), go.mod, python, pip
+  - **-o**: output path ที่อยากให้เขียน report
+  - [https://dependency-check.github.io/DependencyCheck/analyzers/index.html](https://dependency-check.github.io/DependencyCheck/analyzers/index.html)
+
 ## 3. Output
 
 ```txt
@@ -57,6 +67,7 @@ project
 
 ```properties
 sonar.project=<project name>
+sonar.projectKey=<project key>
 
 ...
 
