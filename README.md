@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Static Code Analysis with SonarQube
 
 1. Technical Debt Landscape
@@ -52,8 +56,20 @@
 ## Exercises
 
 1. [js](./exercises.md#1-js)
+    - code coverage
 2. [php-slim](./exercises.md#2-php-slim)
+    - code coverage
 3. [dotnet9](./exercises.md#3-dotnet9)
+    - code coverage
+
+---
+
+## Dependency-check
+
+1. [Setup and install Dependency-check](./dependency-check.md#1-setup-and-install-dependency-check)
+2. [Analysis parameters](./dependency-check.md#2-analysis-and-options)
+3. [Output](./dependency-check.md#3-output)
+4. [Config `sonar.dependencyCheck` for `sonar-project.properties`](./dependency-check.md#4-config-sonardependencycheck-for-sonar-projectproperties)
 
 ---
 
