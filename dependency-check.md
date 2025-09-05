@@ -31,6 +31,14 @@
     dependency-check.bat --scan <PATH> --nvdApiKey <nvdApiKey> -f ALL --enableExperimental
     ```
 
+  - \*Error updating the NVD Data
+
+    - add more options: `--nvdDatafeed https://nvd.nist.gov/feeds/json/cve/2.0/nvdcve-2.0-\{0\}.json.gz`
+
+    ```sh
+    dependency-check.bat --scan <PATH> --nvdApiKey <nvdApiKey> -f ALL --enableExperimental --nvdDatafeed https://nvd.nist.gov/feeds/json/cve/2.0/nvdcve-2.0-\{0\}.json.gz
+    ```
+
 ## 3. Output
 
 ```txt
